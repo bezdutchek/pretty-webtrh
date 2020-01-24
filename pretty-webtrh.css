@@ -1,0 +1,13 @@
+.partners-top-bar, /*Hides partners link section on top of the website*/
+.banner /*Hides google ads banners in header and footer*/
+{
+  display: none;
+}
+
+/*
+Sticking user menu back on top of the page since there was a blank space after removing
+partners link section
+*/
+#mainUsermenu {
+  margin-top: 0px !important; 
+}
