@@ -2,6 +2,8 @@
 
 Make Webtrh pretty again!
 
+![](https://raw.githubusercontent.com/bezdutchek/pretty-webtrh/master/screenshot.png)
+
 ## Installation [CZ]
 
 - **Safari:** Naklonujte si tento repozitář nebo si jej stáhněte jako ZIP a extrahujte jeho obsah, v Safari otevřete Předvolby, Pokročilé a v kolonce Šablony stylů vyberte `pretty-webtrh.css`.
